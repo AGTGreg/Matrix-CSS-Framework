@@ -3,6 +3,13 @@ Matrix-UI-Framework
 
 Matrix is a free and simple to use ui framework for responsive web pages.
 
+> For now there's only the grid system. More features are planned and will be added in the future.
+
+The Matrix Grid system makes it easy to create responsive layouts for web pages the right way. Matrix uses inline-blocks instead of floating divs. All blocks are centered by default so you can center elements in you page with ease. 
+
+You can check the sample html document included to see how it works.
+Or you can just keep reading ;)
+
 How to install:
 ===============
 **Step 1**: Download the files to your computer.
@@ -34,3 +41,4 @@ How to install:
 > ```html
 > <meta name="viewport" content="width=device-width, initial-scale=1.0">
 >```
+
