@@ -1,0 +1,16 @@
+/*Test stuff. To be removed*/
+.block {
+    border: 2px solid #BABABA;
+    background-color: #424242;
+    color: #E5E5E5;
+    
+    -webkit-transition: all 0.5s 0s ease;
+    -moz-transition: all 0.5s 0s ease;
+    -ms-transition: all 0.5s 0s ease;
+    -o-transition: all 0.5s 0s ease;
+    transition: all 0.5s 0s ease;
+}
+
+.block:hover {
+    background-color: #70C979;
+}
