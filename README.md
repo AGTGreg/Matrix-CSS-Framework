@@ -1,11 +1,13 @@
-Matrix-UI-Framework
-===================
+Matrix CSS Framework
+====================
 
-Matrix is a free and simple to use ui framework for responsive web pages.
+* Extremely flexible
+* Insanely simple
+* Responsive by default
 
-> For now there's only the grid system. More features are planned and will be added in the future.
+Matrix is a free, flexible and easy to use CSS framework for making responsive web pages.
 
-The Matrix Grid system makes it easy to create responsive layouts for web pages the right way. Matrix uses inline-blocks instead of floating divs. All blocks are centered by default so you can center elements in you page with ease. 
+The Matrix CSS Framework makes it easy to create flexible and responsive layouts for web pages the right way. It uses inline-blocks instead of floating divs and they are all centered by default so you can center elements in you page with ease. Even if you need to put elements on the right or left side of your page you can still avoid using floating divs and clear fixes.
 
 You can check the sample html document included to see how it works.
 Or you can just keep reading ;)
@@ -42,3 +44,5 @@ How to install:
 > <meta name="viewport" content="width=device-width, initial-scale=1.0">
 >```
 
+**License: **
+Matrix is free and open source. It is licensed under the MIT license.
