@@ -44,5 +44,7 @@ How to install:
 > <meta name="viewport" content="width=device-width, initial-scale=1.0">
 >```
 
-**License: **
+
+**License:**
+
 Matrix is free and open source. It is licensed under the MIT license.
